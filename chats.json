@@ -1,0 +1,28 @@
+[
+    {
+      "chatId": "orliOrna",
+      "chatMembers": [
+        {"name": "orli", "Phone": "050-111-1111"},
+        {"name": "orna", "Phone": "050-222-2222"}
+      ],
+      "MessagesRelated": ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+    },
+    {
+      "chatId": "ortalOrli",
+      "chatMembers": [
+        {"name": "orli", "Phone": "050-111-1111"},
+        {"name": "ortal", "Phone": "050-333-3333"}
+      ],
+      "MessagesRelated": ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+    },
+    {
+      "chatId": "groupChat",
+      "chatMembers": [
+        {"name": "orli", "Phone": "050-111-1111"},
+        {"name": "orna", "Phone": "050-222-2222"},
+        {"name": "ortal", "Phone": "050-333-3333"}
+      ],
+      "MessagesRelated": ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+    }
+  ]
+  

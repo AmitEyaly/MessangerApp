@@ -1,0 +1,114 @@
+[
+    {
+        "fullName": "Yossi Cohen",
+        "userName": "yossi.cohen",
+        "phoneNumber": "0501234567",
+        "password": "password1",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Sara Levi",
+        "userName": "sara.levi",
+        "phoneNumber": "0541234567",
+        "password": "password2",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "David Ben-David",
+        "userName": "david.bendavid",
+        "phoneNumber": "0551234567",
+        "password": "password3",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Avigail Cohen",
+        "userName": "avigail.cohen",
+        "phoneNumber": "0561234567",
+        "password": "password4",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Yael Cohen",
+        "userName": "yael.cohen",
+        "phoneNumber": "0571234567",
+        "password": "password5",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Moshe Levi",
+        "userName": "moshe.levi",
+        "phoneNumber": "0581234567",
+        "password": "password6",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Tamar David",
+        "userName": "tamar.david",
+        "phoneNumber": "0521234567",
+        "password": "password7",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Itzhak Cohen",
+        "userName": "itzhak.cohen",
+        "phoneNumber": "0517654321",
+        "password": "password8",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Rivka Ben-David",
+        "userName": "rivka.bendavid",
+        "phoneNumber": "0526543217",
+        "password": "password9",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Shlomo Cohen",
+        "userName": "shlomo.cohen",
+        "phoneNumber": "0535432176",
+        "password": "password10",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Rachel Levi",
+        "userName": "rachel.levi",
+        "phoneNumber": "0544321765",
+        "password": "password11",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Daniel Cohen",
+        "userName": "daniel.cohen",
+        "phoneNumber": "0502345678",
+        "password": "password12",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Shira Levy",
+        "userName": "shira.levi",
+        "phoneNumber": "0543456789",
+        "password": "password13",
+        "chatsRelated": [],
+        "contacts": []
+    },
+    {
+        "fullName": "Yehuda David",
+        "userName": "yehuda.david",
+        "phoneNumber": "0554567890",
+        "password": "password14",
+        "chatsRelated": [],
+        "contacts": []
+    }
+]
