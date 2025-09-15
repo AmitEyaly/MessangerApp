@@ -3,6 +3,7 @@
 **Overview**
 
 MessengerApp is a simple messaging application. It has a client front-end, and a server backend. The project also includes sample data in JSON files for users, contacts, and chats.
+
 The backend API for the MessengerApp handles:
   -User authentication and authorization
   -Message sending / receiving
@@ -10,7 +11,7 @@ The backend API for the MessengerApp handles:
   -Real-time communication
   -Any business logic required to support the front-end client
 
-The frontend Features:
+Frontend Features:
   -User login / authentication
   -Fetching and displaying contact lists
   -Fetching and displaying conversations / messages
