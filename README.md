@@ -2,7 +2,7 @@
 
 **Overview**
 
-MessengerApp is a simple messaging application. It has a client front-end, and a server backend. The project also includes sample data in JSON files for users, contacts, and chats.
+MessengerApp is a simple real-time messaging  full stack application. The app also includes sample data in JSON files for users, contacts, and chats.
 
 The backend API for the MessengerApp handles:
   - User authentication and authorization
@@ -13,9 +13,9 @@ The backend API for the MessengerApp handles:
 
 Frontend Features:
   - User login / authentication
-  - Fetching and displaying contact lists
-  - Fetching and displaying conversations / messages
-  - Sending new messages
+  - Displaying chat history 
+  - Displaying contact lists
+  - real-time communication - sending and receving messages
   - Clean UI to navigate chats, users, messages
 
 **Setup & Usage**
@@ -38,30 +38,19 @@ Frontend Features:
 Backend (server)
 
 - express
-
 - mongoose
-
 - dotenv
-
 - bcrypt
-
 - jsonwebtoken
-
 - cors
-
 - socket.io
   
 Frontend (client)
 
 - react
-
 - react-dom
-
 - react-router-dom
-
 - redux
-
 - axios
-
 - socket.io-client
 
