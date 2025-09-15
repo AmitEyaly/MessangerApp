@@ -20,22 +20,47 @@ The frontend Features:
 **Setup & Usage**
 
 - Explore the JSON data files
-  The project includes:
-  users.json / users2.json — sample user data
-  usersContacts.json — contacts of users
-  chats.json — sample chats between users
+    The project includes:
+    users.json / users2.json — sample user data
+    usersContacts.json — contacts of users
+    chats.json — sample chats between users
 
--Start the server
-  Go into the server folder and run your backend. (Assumes you have the dependencies installed.)
+- Start the server
+    Go into the server folder and run your backend. (Assumes you have the dependencies installed.)
 
--Run the client
-  Go into the client folder and run the frontend app so it can interact with the server and the sample data.
+- Run the client
+    Go into the client folder and run the frontend app so it can interact with the server and the sample data.
 
   
 **Dependencies**
 
-- React
-- Axios for HTTP requests
-- Routing library (React Router)
-- State management – Redux.
-- 
+Backend (server)
+
+- express
+
+- mongoose
+
+- dotenv
+
+- bcrypt
+
+- jsonwebtoken
+
+- cors
+
+- socket.io
+  
+Frontend (client)
+
+- react
+
+- react-dom
+
+- react-router-dom
+
+- redux
+
+- axios
+
+- socket.io-client
+
